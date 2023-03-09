@@ -126,7 +126,7 @@ body{
   display: inline-block;
 } */
 .timeline-content{
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
   background-blend-mode: darken;
   background-repeat: space;
   background-size: cover;
@@ -139,7 +139,7 @@ body{
 	right: 0.5rem;
 	top: 0.5rem;
 }
-.ii{
+.i{
 	width: 13rem;
 }
 .c{
