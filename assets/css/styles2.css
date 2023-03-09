@@ -139,9 +139,6 @@ body{
 	right: 0.5rem;
 	top: 0.5rem;
 }
-.i{
-	width: 13rem;
-}
 .c{
   display: inline-block;
   margin-right: 1rem;
@@ -233,4 +230,7 @@ body{
 }
 .cs{
 	font-size: 16px;
+}
+.i{
+	width: 13rem;
 }
